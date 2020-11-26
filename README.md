@@ -15,3 +15,7 @@ Change
 To
 
 #base "../../options/ammo-health_font/dock11_font.res"
+
+_______________________________________
+
+Please report any bugs in the huds.tf comments!
