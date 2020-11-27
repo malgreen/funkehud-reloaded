@@ -1,4 +1,4 @@
-"Resource/UI/HudDamageAccount.res"
+ "Resource/UI/HudDamageAccount.res"
 {
 	"CDamageAccountPanel"
 	{
@@ -9,8 +9,8 @@
 		"PositiveColor"			"Heal Numbers"
 		"NegativeColor"			"Damage Numbers"
 		"delta_lifetime"		"2"
-		"delta_item_font"		"HUDFont24Outline"
-		"delta_item_font_big"	"HUDFont24Outline"
+		"delta_item_font"		"HudFontMediumShadow"
+		"delta_item_font_big"	"HudFontMediumShadow"
 	}
 
 	"DamageAccountValue"

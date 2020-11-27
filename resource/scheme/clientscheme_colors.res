@@ -41,7 +41,7 @@ Scheme
 		"Health Buff"				"195 255 195 255"
 		"Health Hurt"				"255 205 131 255"
 		"Heal Numbers"				"48 255 48 255"
-		"Last DamageHeal Info"		"255 46 46 255"
+		"Last DamageHeal Info"		"255 255 255 255"
 		"ItemPanelBG"				"50 50 50 255"
 		"Button Color"				"255 128 28 255"
 		"Button Color Dim"			"128 64 0 255"
