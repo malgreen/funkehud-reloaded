@@ -1,3 +1,5 @@
+//#base "../../options/chatbox_position/top_left.res"
+#base "../../options/chatbox_position/bot_left.res"
 "Resource/UI/BaseChat.res"
 {
 	"HudChat"
@@ -7,7 +9,6 @@
 		"visible" 				"1"
 		"enabled" 				"1"
 		"xpos"					"5"
-		"ypos"					"25"
 		"wide"					"210"
 		"tall"					"100"
 		"PaintBackgroundType"	"0"
