@@ -326,7 +326,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"0"
-		"ypos"					"c70"
+		"ypos"					"c0"
 		"wide"					"640"
 		"tall"					"480"
 		"PaintBackgroundType"	"2"

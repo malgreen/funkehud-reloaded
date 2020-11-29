@@ -2,6 +2,6 @@
 {
 	"HudChat"
 	{
-		"ypos"			  		"r150"
+		"ypos"			  		"r105"
 	}
 }
