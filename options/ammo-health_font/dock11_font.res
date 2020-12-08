@@ -8,7 +8,7 @@ Scheme
 			"1"
 			{
 				"name"			"DOCK11"
-				"tall" 		 	"56"
+				"tall" 		 	"46"
 				"additive"		"0"
 				"antialias"		"1"
 			}
