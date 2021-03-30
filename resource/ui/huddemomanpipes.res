@@ -19,7 +19,7 @@
 		"textAlignment"		"west"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"font"				"HudFontSmall"
+		"font"				"HudFontSmallest"
 		"fgcolor"			"TanLight"
 	}
 
@@ -29,10 +29,11 @@
 		"fieldName"			"ChargeMeter"
 		"xpos"				"0"
 		"ypos"				"c-162"
-		"xpos_minmode"		"15"
-		"ypos_minmode"		"35"
+		"xpos_minmode"		"40"
+		"ypos_minmode"		"36"
 		"zpos"				"2"
 		"wide"				"120"
+		"wide_minmode"		"70"
 		"tall"				"8"
 		"tall_minmode"		"5"
 		"autoResize"		"0"
